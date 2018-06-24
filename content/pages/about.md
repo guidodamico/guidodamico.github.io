@@ -14,7 +14,7 @@ In 2010, I got my PhD in [Astroparticle Physics](http://www.sissa.it/app/) at [S
 My main research interest is Theoretical Cosmology.
 I study the birth and evolution of the universe, from its (pre-)infancy to today.
 You can have a look at my publications [here](http://inspirehep.net/search?p=author%3AG.D.Amico.2%20AND%20collection%3Aciteable), and feel free to contact me at guidodamico_at_nyu.edu.
-[Here's]({filename}/files/cv_academic.pdf) my academic CV.
+[Here's](/files/cv_academic.pdf) my academic CV.
 
 
 

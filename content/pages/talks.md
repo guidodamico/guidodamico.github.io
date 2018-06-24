@@ -9,13 +9,13 @@ save_as: talks.html
 
 April, CEA, Saclay, France
 
-February, UT Austin, USA [PDF]({filename}/files/austin_feb14.pdf)
+February, UT Austin, USA
 
 January, *Inflation after Planck*, DESY, Hamburg, Germany
 
 #2013#
 
-October, Tufts University, USA [PDF]({filename}/files/tufts_oct13.pdf)
+October, Tufts University, USA
 
 September, *Cosmology after Planck*, MCTP, Ann Arbor, USA
 
@@ -23,7 +23,7 @@ August, *New Challenges for Early Universe Cosmologists*, Lorentz Center, Leiden
 
 July, *New Light in Cosmology from the CMB*, ICTP, Trieste, Italy
 
-May, *Mining the Cosmic Frontier in the Planck Era*, UC Davis, USA [PDF]({filename}/files/davis_may13.pdf)
+May, *Mining the Cosmic Frontier in the Planck Era*, UC Davis, USA
 
 March, University of Pennsylvania, USA
 
@@ -37,7 +37,7 @@ October, UC Davis, USA
 
 September, *Large Scale Structure*, ICTP, Trieste, Italy
 
-June, *Quarks 2012*, Yaroslav'l, Russia [PDF]({filename}/files/quarks_jun12.pdf)
+June, *Quarks 2012*, Yaroslav'l, Russia
 
 April, Princeton University, USA
 
@@ -49,7 +49,7 @@ September, *Non-Gaussianity as a Window to the Primordial Universe*, University 
 
 September, *Infrared Modifications of Gravity*, ICTP, Trieste, Italy
 
-May, *Cosmological non-Gaussianity*, University of Michigan, USA [PDF](/files/michigan_may11.pdf)
+May, *Cosmological non-Gaussianity*, University of Michigan, USA
 
 May, UC Davis, USA
 
