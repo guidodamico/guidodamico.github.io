@@ -39,7 +39,7 @@ THEME = 'pure-theme'
 
 # plugins
 # I need the liquid tag because I use that syntax
-PLUGIN_PATHS = ["pelican-plugins"]
+PLUGIN_PATHS = ["plugins"]
 PLUGINS = ["sitemap", "gravatar", "render_math", "liquid_tags.img"]
 # 'liquid_tags.video', 'liquid_tags.youtube', 'liquid_tags.vimeo',
 #'liquid_tags.include_code', 
